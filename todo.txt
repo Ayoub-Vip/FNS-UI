@@ -1,0 +1,4 @@
++Allowing to any employe to search his targets itself
++Any targited account should be stored and remembered as already-visited
++Save a short history for each targiting
+
